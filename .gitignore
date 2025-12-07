@@ -1,0 +1,16 @@
+# Archivos temporales y de IDE
+.vscode/
+.idea/
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+config.php
+
+# Directorios temporales
+vendor/
+node_modules/
